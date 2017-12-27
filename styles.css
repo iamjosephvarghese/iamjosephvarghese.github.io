@@ -1,10 +1,10 @@
 .center-row{
-  margin: auto;
+  margin: auto !important;
   max-width: 800px;
 }
 
 .center-row-two{
-  margin: auto;
+  margin: auto !important;
   max-width: 1000px;
 
 }
