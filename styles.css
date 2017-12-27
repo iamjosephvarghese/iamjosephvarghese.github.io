@@ -1,0 +1,22 @@
+.center-row{
+  margin: auto;
+  max-width: 800px;
+}
+
+.center-row-two{
+  margin: auto;
+  max-width: 1000px;
+
+}
+
+.btn{
+  margin: 20px;
+}
+
+.jumbotron{
+  background-color: light-grey;
+}
+
+/* #home{
+  height: 500px
+} */
