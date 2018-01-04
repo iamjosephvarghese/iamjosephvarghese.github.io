@@ -17,10 +17,9 @@
   background-color: light-grey;
 }
 
-/* #home{
-  height: 500px
-} */
-
+#particles-js{
+  height:20px;
+}
 
 #particle {
   background-color: #b61924;
